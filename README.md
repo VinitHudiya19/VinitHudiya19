@@ -1,21 +1,28 @@
-Hi there! 👋 I’m Vinit Hudiya
-<b>Aspiring MERN stack developer | Open-source enthusiast | Passionate about clean code<b>
+🧠 Vinit Hudiya | Data Science & Software Developer
+🚀 Turning ideas into data-driven and scalable solutions
 
+Hi there! 👋
+I’m Vinit Hudiya, a pre-final year B.Tech CSE (Data Science) student at RCOEM (Batch ’27).
+I love exploring the intersection of Data Science, Machine Learning, and Software Development — where data meets logic and creativity meets code.
 
+💻 What I Do
+🧩 Solve problems using Data Structures & Algorithms (DSA)
+🤖 Build Machine Learning models and data-driven solutions
+🌐 Develop Web & Backend Applications (MERN Stack)
+📊 Visualize insights using Python, Power BI, and Tableau
+☁️ Experiment with Cloud tools and end-to-end ML pipelines
 
-<h3>🚀 About Me</h3>
-I’m a software engineering student with a keen interest in web development. My journey began when I discovered the magic of JavaScript and fell in love with its versatility. Since then, I’ve been on a mission to build meaningful projects and contribute to the open-source community.
+⚙️ Tech Stack
+Languages: Python, Java, SQL, JavaScript
+Frameworks: React.js, Node.js, Express.js, Flask
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tools: Git, Power BI, Tableau, VS Code, Jupyter
+Databases: MySQL, MongoDB
 
-<h3>💻 Tech Stack</h3>
-Frontend: React.js, Redux, HTML, CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Version Control: Git, GitHub
-Other Tools: VS Code, Postman<br>
-<h3>🌱 What I’m Learning</h3>
-I’m currently diving deeper into GraphQL and exploring serverless architectures. Learning never stops, and I’m excited to keep growing as a developer.<br>
+🌱 Currently Working On
+Improving my DSA + System Design skills
+Building projects combining AI + Web + Cloud
+Preparing for SDE / Data Science placements
 
-<h3>📫 Let’s Connect</h3>
-LinkedIn: Vinit Hudiya
-Email: vinnithudiya19@gmail.com
-Feel free to reach out—I’m always up for a coding chat or collaboration! 🤝
+🎯 Goals
+To become a Data Scientist / Machine Learning Engineer / SDE who builds impactful, scalable, and intelligent systems.
